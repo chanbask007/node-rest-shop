@@ -13,15 +13,8 @@
 
 ## Installing
 
-    Use following commands 
-    ```
-    npm install
-    ```
-
-    ```
-    npm start
-    ```
-
+Use following commands 
+```npm install```    
 
 ## packages used : 
     1) bcrypt
