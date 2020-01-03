@@ -1,6 +1,6 @@
 # node-rest-shop
-### RESTful API using Node, Express and Mongo
-
+``` RESTful API using Node, Express and Mongodb
+```
 ## packages used : 
     1) bcrypt
     2) body-parser
