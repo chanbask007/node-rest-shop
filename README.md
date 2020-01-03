@@ -8,7 +8,7 @@
 - Mongodb [Mongodb Official Documentation](https://docs.mongodb.com/manual/tutorial/getting-started/)
 - RESTful API [REpresentation State Transfer (REST)](https://restfulapi.net/)
         
-**Note :** Make sure that you have [MongoDB Atlas Account](https://www.mongodb.com/cloud/atlas), if not then create one and create your own cluster. DO not forget to change credentials in [nodemon.json](docs/nodemon.json)
+**Note :** Make sure that you have [MongoDB Atlas Account](https://www.mongodb.com/cloud/atlas), if not then create one and create your own cluster. DO not forget to change credentials in [nodemon.json](/nodemon.json)
 
 ## Installing
 
