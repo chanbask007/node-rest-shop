@@ -4,6 +4,7 @@
 
 ## Prerequisites
 - Nodejs [Nodejs Official Documentation](https://nodejs.org/en/docs/)
+- NPM [CLI Documentation](https://docs.npmjs.com/cli-documentation/)
 - Expressjs [Expressjs Official Documentation](https://expressjs.com/)
 - Mongodb [Mongodb Official Documentation](https://docs.mongodb.com/manual/tutorial/getting-started/)
 - RESTful API [REpresentation State Transfer (REST)](https://restfulapi.net/)
@@ -12,6 +13,14 @@
 
 ## Installing
 
+    Use following commands 
+    ```
+    npm install
+    ```
+
+    ```
+    npm start
+    ```
 
 
 ## packages used : 
