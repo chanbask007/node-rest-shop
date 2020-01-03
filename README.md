@@ -2,6 +2,12 @@
 
 **RESTful API using Node, Express and Mongodb**
 
+## Prerequisites
+
+## Installing
+
+
+
 ## packages used : 
     1) bcrypt
     2) body-parser
