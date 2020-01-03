@@ -14,7 +14,9 @@
 ## Installing
 
 Use following commands 
-```npm install```    
+
+``npm install``
+``npm start``    
 
 ## packages used : 
     1) bcrypt
